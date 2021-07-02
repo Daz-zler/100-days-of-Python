@@ -1,0 +1,7 @@
+#Data Types
+Mutable and Immutable (If the value can change, the object is called mutable, while if the value cannot change, the object is called immutable)
+NST -Numbers, Strings, Tuples [Mutable]
+DLS -Dictionaries, Lists, Strings
+
+
+<img align="center" alt="GIF" src="https://github.com/Daz-zler/100-days-of-Python/blob/main/datatypes.PNG?raw=true" width="500" height="320" />
